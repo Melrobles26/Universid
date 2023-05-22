@@ -7,7 +7,7 @@
 </head>
 <body class="bg-gray-100">
   <h1 class="underline decoration-1">
-    login
+    Add login
   </h1>
 </body>
 </html>
